@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Julia ✨
 
-<!--
-**jteesang/jteesang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently
+- Building out my wishlist of ideas revolving around **reimagining existing systems** in travel, retail clothing, and sustainability
+- Identifying use cases where technology can make a lasting impact on **underserved communities**
+- Curating a **community of ambitious, creative individuals** to uplift one another
 
-Here are some ideas to get you started:
+## Past
+- Software Engineer @ Capital One (2021, 2022-2024)
+- Software Engineer Intern @ JP Morgan Chase (2020)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Values
+- Technology is one of the only industries where you can iterate quickly given the same time and energy in a day. So why not build? 
+- Fulfilling work is one that encompasses hard problems, hard work, and great ambition.
+- One of the most dangerous cycles to get stuck in is not questioning how you're spending on your time and what you're spending it on.
