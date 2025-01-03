@@ -1,7 +1,7 @@
-### Hi there, I'm Julia ✨
+### I'm Julia! I like to build/understand systems, connect people together, and occassionally write and knit! ✨ 📝 🧶
 
 ## Currently
-- Building to fundamentally change existing systems for underserved communities
+- Exploring AI interfaces 
 - Curating a **community of ambitious, creative individuals** to uplift one another
 
 ## Past
