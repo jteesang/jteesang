@@ -1,4 +1,4 @@
-### I'm Julia! ✨ 📝 🧶
+### I'm Julia! ✨ 📝  🧶
 
 ## Currently
 - Exploring design of more humane AI interfaces
